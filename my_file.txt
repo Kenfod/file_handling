@@ -1,0 +1,7 @@
+This is the first line.
+42 is the answer to the ultimate question of life, the universe, and everything.
+Here's some more text for good measure.
+
+Appending some more content...
+Line 4: New information!
+Line 5: The end (for now).
